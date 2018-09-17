@@ -80,7 +80,7 @@
                 <i class="file powerpoint outline black icon"></i>
               </a>
               <a :href="source" v-else-if="source.endsWith('.pdf')">
-                <i class="file pdf outline black icon" href="source"></i>
+                <i class="file pdf outline black icon"></i>
               </a>
             </span>
           </td>
