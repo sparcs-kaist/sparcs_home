@@ -30,7 +30,7 @@
     "node-sass": "^4.7.2",
     "path.join": "^1.0.0",
     "request-promise": "^4.2.1",
-    "semantic-ui": "^2.2.10",
+    "semantic-ui": "^2.3.0",
     "tls": "0.0.1",
     "url": "^0.11.0",
     "vue": "^2.2.1",
